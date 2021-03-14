@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnwarren23
+- 👋 Hi, I’m John Warren
 - 👀 I’m interested in ...beginning my career as a junior software developer
 - 🌱 I’m currently learning ...different algorithms and data structures
 - 💞️ I’m looking to collaborate on ...coding and application projects
